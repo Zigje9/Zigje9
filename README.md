@@ -1,4 +1,8 @@
+![image](https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png)
 
+~ 2020.12 boostcamp 2020
+<br/>
+<br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zigje9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
