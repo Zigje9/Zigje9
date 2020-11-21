@@ -1,7 +1,10 @@
 ![image](https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png)
 
-~ 2020.12 boostcamp 2020
+~ 2020.12 네이버 커넥트재단 부스트캠프 2020
 <br/>
+
+Frontend 개발자가 되고 싶은 학생입니다.
+
 <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=dracula)
