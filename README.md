@@ -10,7 +10,7 @@ I’m currently learning web programming in ***Naver Connect Foundation Boost Ca
 - <img src="https://i.imgur.com/bKn2svC.png" width="30px" height="30px"> TypeScript
  
 <br/>
----
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=dracula)
 
