@@ -1,12 +1,16 @@
-![image](https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png)
+I’m currently learning web programming in ***Naver Connect Foundation Boost Camp 2020***
 
-~ 2020.12 네이버 커넥트재단 부스트캠프 2020
+<img src="https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png" width="100px" height="100px">
+
+---
+#### Interested 
+- <img src="https://i.imgur.com/dXxLDXd.png" width="30px" height="30px"> React 
+- <img src="https://i.imgur.com/ONpHudP.png" width="30px" height="30px"> JavaScript 
+
+- <img src="https://i.imgur.com/bKn2svC.png" width="30px" height="30px"> TypeScript
+ 
 <br/>
-
-Frontend 개발자가 되고 싶은 학생입니다.
-
-<br/>
-
+---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=dracula)
 
 
