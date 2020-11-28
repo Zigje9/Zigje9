@@ -1,8 +1,8 @@
-I’m currently learning web programming in ***Naver Connect Foundation Boost Camp 2020***
+I’m currently learning web programming in ***Naver Connect Foundation Boost Camp 2020*** 
 
-[`가계부 서비스 만들기`](https://github.com/boostcamp-2020/Project16-E-Account-Book)
+[`가계부 서비스 만들기 Honey In Money`](https://github.com/boostcamp-2020/Project16-E-Account-Book) 👈
 
-<img src="https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png" width="100px" height="100px">
+<img src="https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png" width="70px" height="70px">
 
 ---
 #### Interested 
