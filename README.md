@@ -8,9 +8,11 @@ I’m currently learning web programming in ***Naver Connect Foundation Boost Ca
 #### Interested 
 - <img src="https://i.imgur.com/dXxLDXd.png" width="30px" height="30px"> React 
 - <img src="https://i.imgur.com/ONpHudP.png" width="30px" height="30px"> JavaScript 
-
 - <img src="https://i.imgur.com/bKn2svC.png" width="30px" height="30px"> TypeScript
- 
+
+![react](https://img.shields.io/badge/react-white?logo=react)
+![javascript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
+![typescript](https://img.shields.io/badge/typescript-blue?logo=typescript)
 <br/>
 
 
