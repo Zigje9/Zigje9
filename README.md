@@ -1,6 +1,6 @@
-***Naver Connect Foundation Boost Camp 2020 멤버쉽*** 
+***Naver Connect Foundation Boost Camp 2020 membership*** 
 <br/>
-2020-12-18 수료 
+~2020-12-18
 
 <img src="https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png" width="70px" height="70px">
 
