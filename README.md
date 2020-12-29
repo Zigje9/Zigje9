@@ -12,7 +12,7 @@
 
 ![react](https://img.shields.io/badge/react-white?logo=react)
 ![javascript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
-![typescript](https://img.shields.io/badge/typescript-blue?logo=typescript)
+![typescript](https://img.shields.io/badge/typescript-skyblue?logo=typescript)
 <br/>
 <br/>
 
