@@ -1,4 +1,4 @@
-***Naver Connect Foundation Boost Camp 2020 membership*** 
+***NAVER Connect Foundation boostcamp 2020 membership*** 
 <br/>
 ~2020-12-18
 
