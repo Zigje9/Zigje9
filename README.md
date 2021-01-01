@@ -1,10 +1,12 @@
 ![2021](https://i.imgur.com/cBGqg71.png)
 <br/>
-***NAVER Connect Foundation boostcamp 2020 membership*** 
-<br/>
-~2020-12-18
 
-<img src="https://user-images.githubusercontent.com/46099115/97802771-27dfae80-1c89-11eb-9b44-bad3b705e53f.png" width="70px" height="70px">
+---
+#### Education
+***NAVER Connect Foundation boostcamp 2020*** 
+<br/>
+<br/>
+2020-07 ~ 2020-12
 
 ---
 #### Interested 
@@ -17,6 +19,8 @@
 ![typescript](https://img.shields.io/badge/typescript-skyblue?logo=typescript)
 <br/>
 <br/>
+
+---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=dracula)
 
