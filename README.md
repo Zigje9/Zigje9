@@ -3,7 +3,7 @@
 
 ---
 #### Education
-***NAVER Connect Foundation boostcamp 2020*** 
+NAVER Connect Foundation boostcamp 2020
 <br/>
 <br/>
 2020-07 ~ 2020-12
