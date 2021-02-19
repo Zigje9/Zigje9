@@ -31,5 +31,6 @@ NAVER Connect Foundation boostcamp 2020
 <br/>
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjkwprn@gmail.com)](mailto:pjkwprn@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jekoo-park-316a781b4/)](https://www.linkedin.com/in/jekoo-park-316a781b4/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 ![GitHub followers](https://img.shields.io/github/followers/zigje9?style=social)
