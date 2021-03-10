@@ -1,5 +1,4 @@
-![2021](https://i.imgur.com/cBGqg71.png)
-<br/>
+
 🔥 Now I'm studying web front-end
 
 ---
