@@ -26,7 +26,7 @@ NAVER Connect Foundation boostcamp 2020
 
 ---
 
-<a href="https://velog.io/@zigje9">📚 Blog</a>
+<a href="https://velog.io/@zigje9">📚 학습 블로그 👈</a>
 <br/>
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjkwprn@gmail.com)](mailto:pjkwprn@gmail.com)
