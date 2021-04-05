@@ -22,7 +22,7 @@ NAVER Connect Foundation boostcamp 2020
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=cobalt)
 
 ---
 
