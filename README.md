@@ -25,7 +25,7 @@ NAVER Connect Foundation boostcamp 2020
 <div>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=cobalt)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk3015)](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk3015)](https://solved.ac/pjk3015)
 
 </div>
 
