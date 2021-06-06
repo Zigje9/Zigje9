@@ -1,6 +1,6 @@
 👋 Hello !
 <br/>
-🔥 Now I'm studying web front-end
+🔥 Now I'm studying Web FrontEnd
 
 ---
 #### Education
