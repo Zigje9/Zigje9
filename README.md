@@ -1,12 +1,12 @@
 👋 Hello !
 <br/>
-🔥 Now I'm studying Web FrontEnd
+🔥 Now I'm studying Web FrontEnd 
 
 ---
 #### Education
 NAVER Connect Foundation boostcamp 2020
 <br/>
-<br/>
+
 2020-07 ~ 2020-12
 
 ---
