@@ -25,13 +25,14 @@ NAVER Connect Foundation boostcamp 2020
 <div>
   
 ![Zigje9's github stats](https://github-readme-stats.vercel.app/api?username=Zigje9&show_icons=true&theme=cobalt)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk3015)](https://solved.ac/pjk3015)
 
 </div>
 
 ---
 
-<a href="https://velog.io/@zigje9" style="font-size: 30px">📚 study blog!  👈</a>
+<a href="http://www.zigje9.kro.kr" style="font-size: 50px">🌏 JE KOO WORLD</a>
+<br/>
+<a href="https://velog.io/@zigje9" style="font-size: 50px">📚 STUDY BLOG</a>
 <br/>
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjkwprn@gmail.com)](mailto:pjkwprn@gmail.com)
