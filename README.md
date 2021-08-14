@@ -32,6 +32,7 @@ NAVER Connect Foundation boostcamp 2020
 
 <a href="http://www.zigje9.kro.kr" style="font-size: 50px">🌏 JE KOO WORLD</a>
 <br/>
+<br/>
 <a href="https://velog.io/@zigje9" style="font-size: 50px">📚 STUDY BLOG</a>
 <br/>
 <br/>
