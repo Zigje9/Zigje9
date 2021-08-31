@@ -3,9 +3,14 @@
 🔥 Now I'm studying Web Front-End 
 
 ---
-#### Education
-NAVER Connect Foundation boostcamp 2020
+#### Experience
+> YAPP 19th
+
+2021-08 ~ 2022-01
+
 <br/>
+
+> NAVER Connect Foundation boostcamp 2020
 
 2020-07 ~ 2020-12
 
