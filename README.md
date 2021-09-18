@@ -1,6 +1,6 @@
 👋 Hello !
 <br/>
-🔥 Now I'm studying Web Front-End 
+🔥 Web Front-End Engineer
 
 ---
 #### Experience
