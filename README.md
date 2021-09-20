@@ -1,6 +1,6 @@
-👋 Hello !
+👋 Hello ! I'm JE KOO
 <br/>
-🔥 Web Front-End Engineer
+🔥 Web Front End Engineer
 
 ---
 #### Experience
